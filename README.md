@@ -193,3 +193,10 @@ Responsive design ✔️
 AI assistant grounded to specific loan ✔️
 
 Graceful fallback when AI quota is exhausted / model not available ✔️
+
+## 🎬 Demo Video
+
+Watch the full walkthrough of the project here: 
+https://drive.google.com/file/d/12udHCe4VSNY89Cx25z7ECpNev9wdNbIq/view?usp=drive_link
+
+> The video showcases the folder structure, project setup, live dashboard, and AI chat functionality using Gemini and Supabase.
